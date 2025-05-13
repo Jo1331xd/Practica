@@ -1,5 +1,5 @@
 # Practica
 # Grupo
-# Roger Sequeira 
-# Carlos Eduardo
-# José Cristo 
+## Roger Sequeira 
+## Carlos Eduardo
+## José Cristo 
